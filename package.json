@@ -1,0 +1,11 @@
+{
+  "name": "creditCardAnalysis",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/idangoldman/creditCardAnalysis",
+  "author": "Idan Goldman <idan@goldman.work>",
+  "license": "MIT",
+  "devDependencies": {
+    "@google/clasp": "^2.3.0"
+  }
+}
